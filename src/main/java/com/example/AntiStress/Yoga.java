@@ -1,9 +1,10 @@
 package com.example.AntiStress;
-public class RelaxingTip {
+
+public class Yoga {
     private String title;
     private String text;
 
-    public RelaxingTip(String title, String text) {
+    public Yoga(String title, String text) {
         this.title = title;
         this.text = text;
     }
